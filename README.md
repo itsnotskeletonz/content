@@ -1,1 +1,1 @@
-# cdn
+# itsnotskeletons private cdn network

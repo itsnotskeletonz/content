@@ -1,0 +1,1 @@
+So most companies dont put their admin panel on their main site they put it in different sites they own or sometimes subdomains. THIS room will teach you how to find them!
